@@ -1,6 +1,6 @@
 # Instagram-Page-ParaMeuCurso
 
-### Os requisitos sÃ£o:
+### Os requisitos:
 
-* [HTML bÃ¡sico](https://www.w3schools.com/html/)
-* [CSS bÃ¡sico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [HTML basico](https://www.w3schools.com/html/)
+* [CSS basico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
